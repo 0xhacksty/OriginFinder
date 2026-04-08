@@ -1,0 +1,14 @@
+# Origin IP Finder Configuration
+# Paste your API credentials below
+
+# Shodan API Key
+shodan_api_key: ""
+
+# Censys API Credentials
+censys_api_id: ""
+censys_api_secret: ""
+
+# Optional Passive DNS Providers
+dnsdb_api_key: ""
+passivetotal_api_key: ""
+securitytrails_api_key: ""
